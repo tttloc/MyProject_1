@@ -1,0 +1,16 @@
+{
+  "name": "coolnodeapp",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "app.js",
+  "dependencies": {
+    "corepack": "^0.15.3",
+    "npm": "^9.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tttloc",
+  "license": "ISC"
+}
